@@ -1,6 +1,18 @@
 # Implementation of a Variational Autoencoder using Pytorch
 
+
+## Description:
+
+The variational autoencoder (VAE) is a framework for training two neural networks: an encoder and a decoder, in order to learn a mapping from a high-dimensional data representation to a lower-dimensional space and back again
+
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FrfL4__qTlfGkHNwppdjK1kZleHcHdxU?usp=sharing)
+
+# Install the Project
+
+```
+$ https://github.com/Nwanna-Joseph/VAE_Modular.git
+```
 
 
 ## Contributors (Group Members)
@@ -8,10 +20,6 @@
  2) Angela Munayo (linkedIn) (AMMI Email)
  3) Gasana Elysee (linkedIn) (AMMI Email)
  4) Nwanna Joseph (linkedIn) (AMMI Email)
-
-## Description:
-
-The variational autoencoder (VAE) is a framework for training two neural networks: an encoder and a decoder, in order to learn a mapping from a high-dimensional data representation to a lower-dimensional space and back again
 
 ## Commands:
  1) To train the network ```python train.py```
