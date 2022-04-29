@@ -101,12 +101,8 @@ $ pip install -r requirements.txt
         <h5> <a href=''>  Nwanna Joseph</a> </h5> <img src="images/f.jpeg" height= 7% width= 7%>
      </div>
 
-
 </div>
 
- 2) Angela Munayo (linkedIn) (AMMI Email)
- 3) Gasana Elysee (linkedIn) (AMMI Email)
- 4) Nwanna Joseph (linkedIn) (AMMI Email)
 
 ## Special Thanks to :
  1) The organizers of the AMMI 2022 program
