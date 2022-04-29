@@ -84,7 +84,7 @@ $ pip install -r requirements.txt
 
 <div style="display:flex;align-items:center">
 <div>
-    <h5> <a href='https://github.com/Junior-081'> Junior Kaningini </a> </h5> <img src="images/junior.jpg" height= 7% width= 7%>
+    <h5> <a href='https://github.com/Junior-081'> Junior Kaningini </a> </h5> <img src="photo_junior.jpg" height= 7% width= 7%>
  </div>
     
 <div>
