@@ -14,9 +14,6 @@ The variational autoencoder (VAE) is a framework for training two neural network
 $ https://github.com/Nwanna-Joseph/VAE_Modular.git
 ```
 
-```
-$ cd Bernouilli-Naive-Bayes
-```
 # Virtual environment
 
 ## Mac OS
