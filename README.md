@@ -80,10 +80,30 @@ $ pip install -r requirements.txt
 
 
 ## Contributors (Group Members)
- 1) <div>
+<div style="display:flex;align-items:center">
+
+<div style="display:flex;align-items:center">
+<div>
     <h5> <a href='https://github.com/Junior-081'> Junior Kaningini </a> </h5> <img src="images/junior.jpg" height= 7% width= 7%>
+ </div>
     
 <div>
+    <h5> <a href='#'>Angela Munayo </a> </h5> <img src="images/f.jpeg" height= 7% width= 7%>
+    
+</div>
+
+<div>
+    <h5> <a href='#'> Gasana Elysee  </a> </h5> <img src="images/sari.jpeg" height= 7% width= 7%>
+    
+</div>
+ 
+  <div>
+        <h5> <a href=''>  Nwanna Joseph</a> </h5> <img src="images/f.jpeg" height= 7% width= 7%>
+     </div>
+
+
+</div>
+
  2) Angela Munayo (linkedIn) (AMMI Email)
  3) Gasana Elysee (linkedIn) (AMMI Email)
  4) Nwanna Joseph (linkedIn) (AMMI Email)
