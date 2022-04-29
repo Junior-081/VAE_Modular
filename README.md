@@ -80,7 +80,10 @@ $ pip install -r requirements.txt
 
 
 ## Contributors (Group Members)
- 1) Junior Kaningini (linkedIn) (AMMI Email)
+ 1) <div>
+    <h5> <a href='https://github.com/Junior-081'> Junior Kaningini </a> </h5> <img src="images/junior.jpg" height= 7% width= 7%>
+    
+<div>
  2) Angela Munayo (linkedIn) (AMMI Email)
  3) Gasana Elysee (linkedIn) (AMMI Email)
  4) Nwanna Joseph (linkedIn) (AMMI Email)
