@@ -1,5 +1,8 @@
 # Implementation of a Variational Autoencoder using Pytorch
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FrfL4__qTlfGkHNwppdjK1kZleHcHdxU?usp=sharing)
+
+
 ## Contributors (Group Members)
  1) Junior Kaningini (linkedIn) (AMMI Email)
  2) Angela Munayo (linkedIn) (AMMI Email)
