@@ -14,7 +14,46 @@ The variational autoencoder (VAE) is a framework for training two neural network
 $ https://github.com/Nwanna-Joseph/VAE_Modular.git
 ```
 
-## Commands:
+```
+$ cd Bernouilli-Naive-Bayes
+```
+# Virtual environment
+
+## Mac OS
+
+### Create virtual environment 
+
+```
+$ python3 -m venv NAME_ENV
+```
+### Activate your environment 
+
+```
+$ source NAME_ENV/bin/activate
+```
+
+## Linux OS
+
+### Create virtual environment
+
+```
+$ conda create -n venv NAME_ENV
+```
+
+### Activate your environment 
+
+```
+$ activate NAME_ENV
+```
+
+# Requirement installations
+To run this, make sure to install all the requirements by:
+
+```
+$ pip install -r requirements.txt 
+```
+
+## Run the model 
  1) To train the network ```python train.py```
  2) To generate new SMILE ```python generate.py```
  3) To install dependencies ```pip install -r requirements.txt ```
