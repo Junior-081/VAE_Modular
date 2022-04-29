@@ -14,13 +14,6 @@ The variational autoencoder (VAE) is a framework for training two neural network
 $ https://github.com/Nwanna-Joseph/VAE_Modular.git
 ```
 
-
-## Contributors (Group Members)
- 1) Junior Kaningini (linkedIn) (AMMI Email)
- 2) Angela Munayo (linkedIn) (AMMI Email)
- 3) Gasana Elysee (linkedIn) (AMMI Email)
- 4) Nwanna Joseph (linkedIn) (AMMI Email)
-
 ## Commands:
  1) To train the network ```python train.py```
  2) To generate new SMILE ```python generate.py```
@@ -45,6 +38,13 @@ $ https://github.com/Nwanna-Joseph/VAE_Modular.git
  5) main.py: Manages the training of the network
  6) model.py : Manages the Variational Autoencoder Neural Network class for encoding, decoding and reparameterization
  7) utils.py : Manages the utility functions for softmax, temperature sampling, one-hot encoding and decoding, loss function, generating new models, e.t.c
+
+
+## Contributors (Group Members)
+ 1) Junior Kaningini (linkedIn) (AMMI Email)
+ 2) Angela Munayo (linkedIn) (AMMI Email)
+ 3) Gasana Elysee (linkedIn) (AMMI Email)
+ 4) Nwanna Joseph (linkedIn) (AMMI Email)
 
 ## Special Thanks to :
  1) The organizers of the AMMI 2022 program
